@@ -2,7 +2,9 @@
 
 A Python-based desktop application that performs extractive summarization of YouTube transcripts using Latent Semantic Analysis (LSA). Designed to enhance comprehension and accessibility, the tool supports real-time translation into English, Spanish, and French via Google Translate API, making educational content more globally inclusive.
 
+
 ✨ Features
+
 📺 YouTube Transcript Parsing: Fetches and processes video transcripts directly from YouTube.
 
 🧠 NLP-Based Summarization: Applies LSA to extract meaningful sentence-level summaries.
@@ -15,7 +17,9 @@ A Python-based desktop application that performs extractive summarization of You
 
 📊 Performance Evaluation: Validated summaries for accuracy, coherence, and compression ratio across different video genres.
 
+
 🛠️ Tech Stack
+
 Programming Language: Python
 
 NLP: Latent Semantic Analysis
